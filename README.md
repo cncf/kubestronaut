@@ -2,7 +2,7 @@
 
 The FAQ can be found as a [PDF document](FAQ.pdf).
 
-If you need to update your [Kubestronaut](https://www.cncf.io/people/kubestronaaut/) profile, please follow the below instructions by submitting a PR for approval. After a PR is merged, the CNCF site will reflect the update within 10 min.
+If you need to update your [Kubestronaut](https://www.cncf.io/training/kubestronaut/) profile, please follow the below instructions by submitting a PR for approval. After a PR is merged, the CNCF site will reflect the update within 10 min.
 
 For more information go to [CNCF People](https://github.com/cncf/people/blob/main/README.md).
 
