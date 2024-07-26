@@ -1,6 +1,6 @@
 # Kubestronaut
 
-The FAQ can be found as a [PDF document](FAQ.pdf).
+The FAQ can be found [online](https://www.cncf.io/training/kubestronaut/kubestronaut-faq/)
 
 If you need to update your [Kubestronaut](https://www.cncf.io/training/kubestronaut/) profile, please follow the below instructions by submitting a PR for approval. After a PR is merged, the CNCF site will reflect the update within 10 min.
 
