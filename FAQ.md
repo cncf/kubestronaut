@@ -63,7 +63,7 @@ Yes you can use the voucher for any CNCF exam that is available even if it was n
 
 Not immediately, you will still be a Kubestronaut until the end of the year. Here is how we are managing the expiration :
 
-* The Kubestronaute title is valid until the end of the year in which their first of the 5 certifications expires.
+* The Kubestronaut title is valid until the end of the year in which their first of the 5 certifications expires.
 * Every October, the CNCF sends an expiration reminder to all Kubestronauts whose status expired earlier in the year, and to those whose status will expire before the end of the year.
 * Kubestronauts who fail to renew their expired certification before the end of the year will lose their title and all associated benefits.
 * Existing Kubestronauts will receive their new voucher certifications in January of each year their status is maintained.
