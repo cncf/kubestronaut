@@ -59,7 +59,7 @@ We are aware of this current limitation of our systems, so we are manually takin
 Yes you can use the voucher for any CNCF exam that is available even if it was not released when you received the voucher. But keep in mind that those vouchers are for an individual exam only and not applicable to bundles (training course + certification or multi-exam.)
 
 
-## If I hold 5 certifications and have become a Kubestronaut, if one of my certifications expires, what will happen to my Kubestronaut? Will I then be removed from the website displaying Kubestronauts from all over the world?
+## As a Kubestronaut, what happens if one of my certifications expires?
 
 Not immediately, you will still be a Kubestronaut until the end of the year. Here is how we are managing the expiration :
 
@@ -69,6 +69,6 @@ Not immediately, you will still be a Kubestronaut until the end of the year. Her
 * Existing Kubestronauts will receive their new voucher certifications in January of each year their status is maintained.
 
 
-## Is the jacket only given once? Let's say my certs expired and I regained them again at a later date. Am I considered a new Kubestronaut and issued another jacket, vouchers and so on?
+## If I lose my status as a Kubstronaut but then regain it at a later point, do I get another jacket, vouchers and other benefits?
 
 As a former Kubestronaut who requalifies, you will once again enjoy the same benefits as all other Kubestronauts, with the exception of the jacket, since a Kubestronaut can only receive one single Kubestronaut jacket during his lifetime.
