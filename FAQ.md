@@ -61,7 +61,7 @@ Yes you can use the voucher for any CNCF exam that is available even if it was n
 
 ## As a Kubestronaut, what happens if one of my certifications expires?
 
-Not immediately, you will still be a Kubestronaut until the end of the year. Here is how we are managing the expiration :
+You will still be a Kubestronaut until the end of the year. Here is how we are managing the expiration :
 
 * The Kubestronaut title is valid until the end of the year in which their first of the 5 certifications expires.
 * Every October, the CNCF sends an expiration reminder to all Kubestronauts whose status expired earlier in the year, and to those whose status will expire before the end of the year.
@@ -71,4 +71,4 @@ Not immediately, you will still be a Kubestronaut until the end of the year. Her
 
 ## If I lose my status as a Kubstronaut but then regain it at a later point, do I get another jacket, vouchers and other benefits?
 
-As a former Kubestronaut who requalifies, you will once again enjoy the same benefits as all other Kubestronauts, with the exception of the jacket, since a Kubestronaut can only receive one single Kubestronaut jacket during his lifetime.
+As a former Kubestronaut who requalifies, you will once again enjoy the same benefits as all other Kubestronauts, with the exception of the jacket, since a Kubestronaut can only receive one single Kubestronaut jacket during their lifetime.
