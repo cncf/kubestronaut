@@ -37,9 +37,13 @@ In order to ease the communication and organizing local activities, some slack c
 * #cncf-kubestronauts-australia
 * #cncf-kubestronauts-bulgaria
 * #cncf-kubestronauts-canada
+* #cncf-kubestronauts-china
 * #cncf-kubestronauts-colombia
 * #cncf-kubestronauts-france
+* #cncf-kubestronauts-georgia
 * #cncf-kubestronauts-netherlands
+* #cncf-kubestronauts-japanese
+* #cncf-kubestronauts-korea
 * #cncf-kubestronauts-taiwan
 * #cncf-kubestronauts-us
 * #kubeastronaut-costarica
