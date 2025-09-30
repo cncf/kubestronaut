@@ -3,7 +3,8 @@
 The FAQ can be found [online](https://www.cncf.io/training/kubestronaut/kubestronaut-faq/)
 
 The initial import of a Kubestronaut profile on the CNCF website is done by CNCF staff member, based on the information the Kubestronaut provided once contacted after passing the last requirement.
-If you need to update your [Kubestronaut](https://www.cncf.io/training/kubestronaut/) profile, please follow the below instructions by submitting a PR for approval. After a PR is merged, the CNCF site will reflect the update within 10 min.
+If you need to update your [Kubestronaut](https://www.cncf.io/training/kubestronaut/) profile, please locate your profile in the [`people.json`](https://github.com/cncf/people/blob/main/people.json) file and modify it as required. Then submit a PR for approval. After the PR is merged, the CNCF site will reflect the update within 10 minutes.
+
 
 To find your Slack ID for the CNCF slack, please follow this [handy guide](https://moshfeu.medium.com/how-to-find-my-member-id-in-slack-workspace-d4bba942e38c)
 
@@ -52,3 +53,4 @@ In order to ease the communication and organizing local activities, some slack c
 * #kubestronauts-thailand
 
 Some of those channels are private, some are public. If you want to join one of them because you are located in that area do not hesitate to ask on #cncf-kubestronauts
+
